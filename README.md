@@ -65,9 +65,3 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Somiddhya09)
 
 ---
-
-### 💻 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Somiddhya09/count.svg" />
-</p>
