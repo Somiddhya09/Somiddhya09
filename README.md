@@ -58,7 +58,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Somiddhya09&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somiddhya09&layout=compact&theme=tokyonight" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somiddhya09&layout=compact&theme=tokyonight" width="36.5%" />
 </p>
 
 ---
