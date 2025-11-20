@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Somiddhya Biswas</h1>
-<h3 align="center">🚀 ML Enthusiast | 💻 Full-Stack Developer | 🌱 Life-long Learner</h3>
+<h1 align="center">Hi there 👋, I'm Somiddhya </h1>
+<h3 align="center">Full-Stack Developer | Learning Machine Learning</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=5CBDB9&center=true&width=435&lines=Passionate+Developer+%26+Tech+Explorer;Loves+React+%2B+Node.js;Machine+Learning+Learner;Open+Source+Contributor" alt="Typing SVG" />
@@ -9,11 +9,10 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 I’m currently learning **Machine Learning**, **Deep Learning**, and **React Frameworks**
-- 💼 Exploring **Cloud Deployments**, **Prompt Engineering**, and **Full-Stack Projects**
-- 🛠️ Tech I use daily: `VS Code`, `Jupyter`, `Git`, `Postman`, `MongoDB`
-- 💬 Ask me about **React**, **Node.js**, **ML**, or anything tech!
-- 📫 Reach me at: **bristi2k6@gmail.com**
+- 💻 I work with the **MERN Stack** (MongoDB, Express, React, Node.js)  
+- 🤖 Currently learning **Machine Learning** and **Deep Learning**  
+- 🚀 I enjoy building projects and exploring new technologies  
+- 📫 Email: **bristi2k6@gmail.com**
 - 🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/somiddhya-biswas-a26488361/)
 
 ---
@@ -54,14 +53,6 @@
 
 ---
 
-### 📊 GitHub Summary
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somiddhya09&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somiddhya09&layout=compact&theme=tokyonight" width="36.5%" />
-</p>
-
----
 
 ### 📈 Activity Graph
 
