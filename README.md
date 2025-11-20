@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Learning Machine Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=5CBDB9&center=true&width=435&lines=Passionate+Developer+%26+Tech+Explorer;Loves+React+%2B+Node.js;Machine+Learning+Learner;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=600&color=5CBDB9&center=true&width=420&lines=Full-Stack+Developer;Learning+ML;Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -43,15 +43,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
-### 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Somiddhya09&theme=firewatch&date_format=M%20j%5B%2C%20Y%5D" width="80%" />
-</p>
-
----
 
 
 ### 📈 Activity Graph
