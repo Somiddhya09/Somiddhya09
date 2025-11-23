@@ -17,39 +17,24 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Technical Skills  
 
-**Languages & Tools**
+| Category | Technologies |
+|---|---|
+| **Languages** | C, JavaScript, Python |
+| **Web (MERN)** | MongoDB, Express.js, React, Node.js, HTML5, CSS3 |
+| **Core Concepts** | OOP, CRUD, REST APIs, MVC Architecture |
+| **Tools & Platforms** | Git, GitHub, VS Code, Postman, Jupyter |
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
-![HTML5](https://img.shields.io/badge/HTML5-fbe3e8?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-5cbdb9?style=for-the-badge&logo=css3&logoColor=1572B6)
+---
 
-**Frontend**
+### 📊 LeetCode Progress  
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-ebf6f5?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
+Here’s a live card for my LeetCode stats:
 
-**Backend & Database**
+![LeetCode Stats](https://leetcard.jacoblin.cool/Somiddhya09?theme=light)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Somiddhya09&theme=react-dark&area=true" width="100%" />
-</p>
+> Click to go to my [LeetCode profile](https://leetcode.com/u/Somiddhya09/)  
 
 ---
 
