@@ -73,7 +73,7 @@
 
 #### **Bail Reckoner**
 A legal-tech platform designed to provide quick information on IPC sections, bail eligibility, and a directory of advocates.
-* **Live Demo:** [bail-reckoner.vercel.app](https://bail-reckoner.vercel.app)
+* **Live Demo:** [bail-reckoner.vercel.app](https://bail-reckoner-snowy.vercel.app/)
 * **Key Features**
     * **Intuitive Questionnaire:** A step-by-step form that guides users through the necessary legal parameters.
     * **AI-Powered Analysis:** Utilizes a smart backend to process inputs and assess them against the provisions of the Bharatiya Nyaya Sanhita (BNS).
