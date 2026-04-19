@@ -10,7 +10,8 @@
 ### 👩‍💻 About Me
 
 - 💻 I work with the **MERN Stack** (MongoDB, Express, React, Node.js)  
-- 🤖 Currently learning **Machine Learning** and **Deep Learning** - 🚀 I enjoy building projects and exploring new technologies  
+- 🤖 Currently learning **Machine Learning** and **Deep Learning** - 🚀 I enjoy building projects and exploring new technologies
+- 🔌 Recently diving into Hardware, experimenting with electronics and understanding embedded systems and smart devices
 - 📫 Email: **bristi2k6@gmail.com**
 - 🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/somiddhya-biswas-a26488361/)
 
